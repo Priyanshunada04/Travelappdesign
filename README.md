@@ -1,14 +1,26 @@
+# 🛫 Travel App Design  
 
-# Travel App Design 🛫  
-This is my first mobile app UI design created in **Figma**.  
+This is my first mobile app UI design created using **Figma**. The project focuses on a seamless and modern travel experience, making trip planning easier and more intuitive for users.  
 
 ## 🔗 Preview  
-[View the Figma Prototype] 
+[🌍 View the Figma Design](https://www.figma.com/design/8EY6tEoDrGx7yvuNaA0SJG/Travel-app-design?node-id=0-1&t=x1OvUUtWF0OhTTWw-1)  
 
 ## 📂 Files Included  
-- PNG/JPG Screenshots  
-- SVG Icons  
-- FIG (Figma Source File)  <a href=https://www.figma.com/proto/8EY6tEoDrGx7yvuNaA0SJG/Travel-app-design?page-id=0%3A1&node-id=1-3&viewport=-237%2C1427%2C0.67&t=wAP7HbUV0Ed6zbLW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3> Prototype </a>
+- **PNG/JPG** – Screenshots of the design  
+- **SVG** – Scalable vector assets/icons  
+- **FIG** – Figma source file for editing  
 
 ## ✨ About  
-Designed as part of my UX learning journey. Feedback is welcome! 😊  
+This project is part of my **UX/UI learning journey**. I'm exploring **mobile app design** and would love to hear your feedback!  
+
+## 🚀 Future Plans  
+- Add more screens for booking & user profiles  
+- Create a working prototype with animations  
+- Implement the design in React Native  
+
+## 📢 Feedback & Suggestions  
+I’d love to hear your thoughts! Feel free to reach out or suggest improvements.  
+
+---
+
+Would you like any modifications or additions before you upload it to GitHub? 😊🚀
